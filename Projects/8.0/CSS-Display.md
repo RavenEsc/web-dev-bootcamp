@@ -1,10 +1,8 @@
-# CSS Positioning
+# CSS Display
 
-The goal of this project was to utilize CSS positioning to produce the provided results within the HTML style element.
+The goal of this project was to utilize CSS to correctly line up these blocks depending on screen width within the HTML style element.
 
-![Goal-Image](goal1.png)
-
-![Goal-Image](goal2.png)
+![Goal-Image](goal.gif)
 
 ## My Answer
 
