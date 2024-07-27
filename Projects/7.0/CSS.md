@@ -6,4 +6,4 @@ The goal of this project was to write a CSS file that replicated the following i
 
 ## My Answer!
 
-![here](carbon.png)
+![here](carbon.svg)
